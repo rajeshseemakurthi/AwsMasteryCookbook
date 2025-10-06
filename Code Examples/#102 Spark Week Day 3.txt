@@ -61,3 +61,5 @@ parquetFileDF.registerTempTable("ParquetRead")
 
 
 // test line implemented as in place
+
+// another text line in-place
