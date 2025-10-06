@@ -57,3 +57,7 @@ parquetFileDF.registerTempTable("ParquetRead")
 %sql select * from flatinput
 
 %sql select * from ParquetRead
+
+
+
+// test line implemented as in place
